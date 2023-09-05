@@ -1,5 +1,3 @@
-
-
 import { createBrowserRouter, RouterProvider } from 'react-rouder-dom'
 import Home from './routes/Home/index.jsx'
 import Produtos from './routes/Produtos/index.jsx'
