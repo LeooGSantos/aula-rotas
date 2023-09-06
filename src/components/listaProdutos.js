@@ -1,4 +1,4 @@
-export const ListaProdutos = [
+export const listaProdutos = [
     {
       id: 1,
       nome: 'Teclado',
